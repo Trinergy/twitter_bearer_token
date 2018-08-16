@@ -1,5 +1,5 @@
 # Twitter Bearer Token
-A tool for application-only authentication that helps you fetch your bearer token.
+A tool for Twitter application-only authentication that helps you fetch your bearer token.
 
 Consumer api keys are encoded according to the [Twitter API Documentation](https://developer.twitter.com/en/docs/basics/authentication/overview/application-only).
 
